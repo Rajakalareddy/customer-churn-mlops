@@ -162,10 +162,10 @@ This project demonstrates an end-to-end machine learning workflow, from data pre
 
 The interactive Streamlit application allows users to enter customer information and view the predicted churn outcome and estimated churn probability.
 
-![Streamlit Prediction](screenshots/streamlit_prediction.png)
+![Streamlit Prediction](screenshots/fastapi_prediction.png)
 
 ### FastAPI Prediction Interface
 
 The FastAPI Swagger documentation allows users to test the customer churn prediction endpoint.
 
-![FastAPI Prediction](screenshots/fastapi_prediction.png)
+![FastAPI Prediction](screenshots/streamlit_prediction.png)
