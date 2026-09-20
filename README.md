@@ -156,3 +156,16 @@ Example response:
 ## Project Purpose
 
 This project demonstrates an end-to-end machine learning workflow, from data preparation and model training to API development, containerization, and interactive predictions.
+## Application Screenshots
+
+### Streamlit Prediction Interface
+
+The interactive Streamlit application allows users to enter customer information and view the predicted churn outcome and estimated churn probability.
+
+![Streamlit Prediction](screenshots/streamlit_prediction.png)
+
+### FastAPI Prediction Interface
+
+The FastAPI Swagger documentation allows users to test the customer churn prediction endpoint.
+
+![FastAPI Prediction](screenshots/fastapi_prediction.png)
